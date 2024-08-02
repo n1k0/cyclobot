@@ -15,6 +15,7 @@ if (!process.env.OPENAI_API_KEY) {
 }
 
 const MAX_TOOT_LENGTH = 666;
+const GENERATE_IMAGE = true;
 
 const client = createRestAPIClient({
   url: process.env.URL,
@@ -26,18 +27,14 @@ const openai = new OpenAI();
 async function createAndSendToot() {
   // Toot text
   const tootText = await generateTootText();
-  // Image
-  const imageUrl = await generateTootImage(tootText);
-  const remoteFile = await fetch(imageUrl);
-  const attachment = await client.v2.media.create({
-    file: await remoteFile.blob(),
-    description: "Illustration générée des technologies mentionnées dans le pouet.",
-  });
-  const { url } = await createToot({
+  const payload = {
     status: tootText,
     visibility: process.env.VISIBILITY || "direct",
-    mediaIds: [attachment.id],
-  });
+  };
+  if (GENERATE_IMAGE) {
+    payload.mediaIds = GENERATE_IMAGE ? [await generateTootImage(tootText)] : [];
+  }
+  const { url } = await createToot(payload);
   console.log(`New toot posted: ${url}`);
 }
 
@@ -58,7 +55,7 @@ async function createToot(params, retries = 3, backoff = 500) {
 }
 
 async function generateTootImage(toot) {
-  const imagePrompt = `Est-ce que tu peux me produire une image d'illustration pas trop science-fiction et plutôt crédible et réaliste pour ce message que tu as généré : “${toot}”. Surtout, évite ABSOLUMENT et IMPÉRATIVEMENT de positionner le moindre texte sur l'image générée.`;
+  const imagePrompt = `Est-ce que tu peux me produire une image d'illustration pas trop science-fiction et plutôt crédible et réaliste pour ce message que tu as généré : “${toot}”. Surtout et par-dessus tout, ne positionneaucun texte ni aucune flèche sur l'image. Comme une photo venant d'être développée.`;
   const response = await openai.images.generate({
     model: "dall-e-3",
     prompt: imagePrompt,
@@ -66,12 +63,16 @@ async function generateTootImage(toot) {
     quality: "hd",
     size: "1792x1024",
   });
-  return response.data[0].url;
+  const remoteFile = await fetch(response.data[0].url);
+  const { id } = await client.v2.media.create({
+    file: await remoteFile.blob(),
+    description: "Illustration générée des technologies mentionnées dans le pouet.",
+  });
+  return id;
 }
 
 async function generateTootText() {
   const prompt = fs.readFileSync("prompt.txt").toString("utf8");
-  console.debug("Prompt", prompt);
   const response = await openai.chat.completions.create({
     model: "gpt-4o",
     messages: [{ role: "system", content: prompt }],

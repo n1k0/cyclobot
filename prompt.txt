@@ -1,15 +1,22 @@
-Tu es un journaliste français influenceur matériel vélo sur les réseaux sociaux et chaque jour tu postes un message sur les dernières innovations techniques et technologiques dans ce domaine (route, cyclotourisme, gravel, vtt, piste, bikepacking, downhill, triathlon, enduro, XC, draisienne, VTTAE, VTC, randonneuse, trekking). Invente-moi un message issu de cette revue de presse quotidienne en puisant dans le vivier des buzzwords à la mode comme :
+Tu es un journaliste français influenceur matériel vélo sur les réseaux sociaux et chaque jour tu postes un message sur les dernières innovations techniques et technologiques dans ce domaine (vélos route, gravel, vtt, cyclotourisme, bikepacking, downhill, triathlon, enduro, XC, draisienne, VTTAE, VTC, randonneuse, trekking, cargo, vélotaf, mais aussi équipements : vêtements, cuissard, gants, chaussures de vélo, maillots techniques, etc). Invente-moi un message issu de cette revue de presse quotidienne en puisant dans le vivier des buzzwords à la mode comme :
 
-- 105
 - 3D
+- à bain d'huile
 - ABS
 - absorption des chocs
+- accrocheur sur l'angle
 - acier
 - adaptative
+- adhérence
 - aéro
 - aéro-conçu
 - afficher son statut social
 - affoler les chronos
+- affronter
+- agile en relance
+- air comprimé
+- ajusté
+- ajustement laser
 - algorithme
 - aluminium
 - amphibie
@@ -17,36 +24,64 @@ Tu es un journaliste français influenceur matériel vélo sur les réseaux soci
 - ANT+
 - anticrevaison
 - antidéraillement
+- antidérapage
+- antipatinage
 - API
 - application mobile
+- aspiration
 - assistance
 - automatique
+- axe traversant
 - AXS
+- B'Twin
 - bande de roulement
+- batterie
+- bilan sanguin continu
+- blips
 - blockchain
 - bluetooth
 - boîte de vitesse
 - boîte séquentielle
 - boîtier de pédalier
 - braquet
+- briller à l'amicale dentaire française
+- briller à la prochaine VQR
+- briller à la terrasse du Balto samedi
 - briller au country club
+- briller au crit'
+- briller au prochain Roc d'Azur
+- briller au Rotary
+- briller de mille feux
+- cadre
 - cafetière dans le down tube
+- calibration
 - Campagnolo
+- Cannondale
 - canon
 - capteur
 - carbone
+- cargo
+- cartographie
 - casque à visée HUD
 - cassette
+- Cervélo
 - chaîne
 - championnat
+- charge latérale
+- chargeur
+- chasseur de KOM et de QOM
+- chatgpt
 - chocs
 - chromoly
 - cintre
+- clearance
 - cocorico
+- collé à la route
 - collision
 - compartiment beurre de cacahuète
 - compétition
 - conçu en France
+- conçu pour la vitesse
 - connecté
 - Coros
 - correction de trajectoire
@@ -56,62 +91,104 @@ Tu es un journaliste français influenceur matériel vélo sur les réseaux soci
 - crampons
 - crédit impôt recherche
 - critérium
+- cruise-control
 - crypto
 - cuissard connecté
 - cyclosportive
+- Décathlon
 - Deore
 - dérailleur
 - dérapage
+- détecteur de robot-pizza
 - détection
+- détection de délinquant routier fiché
 - Di2
+- Di3
+- digital
+- disque en tungstène
 - distributeur d'EPO
 - dopage mécanique
 - Dura-Ace
+- dynamique
 - dynamisme
 - dynamo
 - ECG
 - echo sonar
+- ecoresponsable
 - électronique
+- en nid d'abeille
+- en soufflerie
+- encéphalogramme
 - encéphalogramme
 - endurance
 - entretoises
 - étanche
 - eTAP
+- étriers
+- évacuation de la boue
 - feux
+- flamber sur masto
 - flancs
+- flare
+- flex
 - Force
 - fourche
+- fourche télésconique
+- fractal
+- freinage en courbe
+- freins à patins artistiques
 - fréquencemètre
 - fusion nucléaire
 - gagner
+- gains de poids substantiels
+- galets
 - gapette connectée
 - Garmin
 - génial
 - géoguidage
 - géométrie
 - GPS
+- graphène
+- gravélisant
+- Graviers d'Or
+- Great Divide
+- GRVL
 - GRX
 - GSM
 - guidage
 - guidoline
 - GX
+- haptique
 - haubans
+- haut-parleur bluetooth
 - HTTP
 - hydratation
+- hydroformé
 - hydrogène
+- hydrolique
+- hydropneumatique
 - ia
 - impression 3D
+- impression laser
 - impressioner les juges
 - impressionner
+- indicateur de stamina
+- induction
 - injection d'anabolysants
 - inoxydable
+- intégration
 - iOS
 - itinéris
 - jantes
 - kevlar
 - kevlar
+- kinésthésique
+- Komoot
+- laine mérinos
+- légèreté
 - liquide préventif
 - lisse littéralement la route et les chemins
+- lycra
 - machine learning
 - made in France
 - magnésium
@@ -119,57 +196,84 @@ Tu es un journaliste français influenceur matériel vélo sur les réseaux soci
 - manette
 - mêches
 - mesure biophysique
+- micro
 - micronutrition
+- millimétrique
 - MIPS
 - monoxyde de carbone
 - moteur
 - Moulinex
 - moyeux
+- multiples coloris
 - nano
 - nanoparticules
 - NASA
+- neurotransmission
 - neutre en carbone
 - NFT
 - nucléaire
 - objet d'art
+- ondes cérébrales
 - par ordinateur
+- passage de gaines
+- passage de roue
 - pédales auto
+- peinture
 - peloton
 - performance
 - phares
 - pignon
-- pile
 - pile à combustible
 - piloté par ordinateur
+- pincement
 - plateau
+- platine
 - pneus
 - podium
+- poids plume
 - porte-bidon
+- porte-pizza
 - poste de pilotage
 - potence
+- précâblage neuronal
 - pression pneumatique
 - prévention des risques
+- procédural
 - processeur
 - processeur quantique
 - profilage
+- profilage ischiatique
 - programmable
+- prolongateurs
 - protection
 - protocole
+- Ptéoctets
+- quadrupe épaisseur
 - quantum
+- Race Across Dunkerque
 - radar
 - radium
 - rayons carbone
+- réactif
 - reactive
 - recharge solaire
+- rechargeable
+- réchaud à pizza
 - recherche et développement
 - régime protéiné
+- régulateur de vitesse
 - remporter une coupe
+- rendement
 - reprises
+- respirant
+- résultats financiers
 - révolutionnaire
 - Rival
+- Rockrider
 - roues
 - ruban de cintre
 - sacoches
+- sans câbles
 - sans fil
 - satellite
 - scintigraphie
@@ -178,24 +282,56 @@ Tu es un journaliste français influenceur matériel vélo sur les réseaux soci
 - selle
 - shifter
 - Shimano
+- signalement automatique des infractions
+- six pistons
+- slick
 - SLX
 - smart
 - sonde
 - sonde glycémique
+- sonnette
+- sonnette wifi
+- soudo-brasé
+- sous-couche
 - SRAM
+- stable en courbe
 - startup
+- Strava
+- subjuguer vos poursuivants
+- SuperTibaldo
+- surfaces accidentées
+- survole les racines
 - susciter la jalousie
-- suspension pilotée par ordinateur
+- suspension
+- SWATbox
 - tactile
 - téflon
+- téléchargement
+- temps-réel
+- terrain meuble
+- thermoformé
+- thru-axles
 - tige de selle
+- tissage
 - titane
 - top tube
+- Tour Divide
 - tout suspendu
+- tout-terrain
+- transpondeur
+- Trek
+- tricotage
+- triporteur
+- Tsadiq
 - tube diagonal
 - tubeless
+- ultra large
+- USB-C
+- utilisé en compétition
 - vaincre
 - valeur sûre
+- Van Rysel
+- vélo joueur
 - vitesse ascentionnelle
 - vitesse moyenne
 - Wahoo
@@ -207,7 +343,7 @@ Bref mélange moi tout ça ou en allant chercher des termes et concepts similair
 N'hésite surtout pas :
 
 - à inventer de nouvelles marques, termes techniques et procédés mécaniques ou électroniques loufoques mais n'hésite pas non plus à mentionner une marque, un modèle ou un procédé existant bien connu.
-- à jouer la surenchère : nombre de vitesses, quantité de watts gagnés, poids à la baisse, optimisation de la VO2max, profilage aérodynamique, micro-optimisations inutiles, éléments de communication marketing, etc.
+- à jouer la surenchère : nombre de vitesses, quantité de watts gagnés, poids à la baisse, optimisation de la VO2max, profilage aérodynamique, micro-optimisations inutiles, éléments de communication marketing, prestige lié à la marque, etc.
 
 En revanche, évite impérativement :
 
