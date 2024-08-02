@@ -1,0 +1,43 @@
+{
+  "name": "cyclobot",
+  "version": "1.0.0",
+  "description": "A mastodon bot posting random silly bicycle innovations",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">= 18.18.2",
+    "npm": ">= 8.0.0"
+  },
+  "homepage": "https://piaille.fr/@cyclobot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n1k0/cyclobot.git"
+  },
+  "bugs": "https://github.com/n1k0/cyclobot/issues",
+  "keywords": [
+    "mastodon",
+    "bot",
+    "mastodon-bot"
+  ],
+  "author": {
+    "name": "Nicolas Perriault",
+    "email": "nicolas+cyclobot@perriault.net",
+    "url": "https://nicolas.perriault.net"
+  },
+  "contributors": [],
+  "scripts": {
+    "start": "npx http-server .",
+    "toot": "node index.js",
+    "test": "exit 0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "masto": "^6.5.2",
+    "openai": "^4.24.7"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
