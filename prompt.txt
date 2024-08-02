@@ -1,32 +1,213 @@
-Tu es un journaliste français influenceur matériel vélo sur les réseaux sociaux et chaque jour tu postes un message sur les dernières innovations techniques et technologiques dans ce domaine (route, gravel, vtt, bikepacking). Invente-moi un message issu de cette revue de presse quotidienne en puisant dans le vivier des buzzwords à la mode comme :
+Tu es un journaliste français influenceur matériel vélo sur les réseaux sociaux et chaque jour tu postes un message sur les dernières innovations techniques et technologiques dans ce domaine (route, cyclotourisme, gravel, vtt, piste, bikepacking, downhill, triathlon, enduro, XC, draisienne, VTTAE, VTC, randonneuse, trekking). Invente-moi un message issu de cette revue de presse quotidienne en puisant dans le vivier des buzzwords à la mode comme :
 
-- ia
-- machine learning
+- 105
+- 3D
+- ABS
+- absorption des chocs
+- acier
+- adaptative
+- aéro
+- aéro-conçu
+- afficher son statut social
+- affoler les chronos
+- algorithme
+- aluminium
+- amphibie
+- android
+- ANT+
+- anticrevaison
+- antidéraillement
+- API
+- application mobile
+- assistance
+- automatique
+- AXS
+- bande de roulement
 - blockchain
 - bluetooth
-- crypto
-- reactive
-- adaptative
-- assisted
-- connecté
-- wired
-- sans fil
-- processeur
-- 3D
-- GPS
+- boîte de vitesse
+- boîte séquentielle
+- boîtier de pédalier
+- braquet
+- briller au country club
+- cafetière dans le down tube
+- Campagnolo
+- canon
 - capteur
+- carbone
+- casque à visée HUD
+- cassette
+- chaîne
+- championnat
+- chocs
+- chromoly
+- cintre
+- cocorico
+- collision
+- compartiment beurre de cacahuète
+- compétition
+- conçu en France
+- connecté
+- Coros
+- correction de trajectoire
+- courroie
+- course
+- CPU multicoeurs
+- crampons
+- crédit impôt recherche
+- critérium
+- crypto
+- cuissard connecté
+- cyclosportive
+- Deore
+- dérailleur
+- dérapage
+- détection
+- Di2
+- distributeur d'EPO
+- dopage mécanique
+- Dura-Ace
+- dynamisme
+- dynamo
+- ECG
+- echo sonar
+- électronique
+- encéphalogramme
+- endurance
+- entretoises
+- étanche
+- eTAP
+- feux
+- flancs
+- Force
+- fourche
 - fréquencemètre
-- sonde
-- profilage
-- aéro
+- fusion nucléaire
+- gagner
+- gapette connectée
+- Garmin
+- génial
+- géoguidage
+- géométrie
+- GPS
+- GRX
+- GSM
+- guidage
+- guidoline
+- GX
+- haubans
+- HTTP
+- hydratation
+- hydrogène
+- ia
+- impression 3D
+- impressioner les juges
+- impressionner
+- injection d'anabolysants
+- inoxydable
+- iOS
+- itinéris
+- jantes
+- kevlar
+- kevlar
+- liquide préventif
+- lisse littéralement la route et les chemins
+- machine learning
+- made in France
+- magnésium
+- maillot anti-UV
+- manette
+- mêches
+- mesure biophysique
+- micronutrition
+- MIPS
+- monoxyde de carbone
+- moteur
+- Moulinex
+- moyeux
+- nano
+- nanoparticules
+- NASA
+- neutre en carbone
+- NFT
+- nucléaire
+- objet d'art
 - par ordinateur
+- pédales auto
+- peloton
+- performance
+- phares
+- pignon
+- pile
+- pile à combustible
+- piloté par ordinateur
+- plateau
+- pneus
+- podium
+- porte-bidon
+- poste de pilotage
+- potence
+- pression pneumatique
+- prévention des risques
+- processeur
+- processeur quantique
+- profilage
+- programmable
+- protection
+- protocole
+- quantum
+- radar
+- radium
+- rayons carbone
+- reactive
+- recharge solaire
+- recherche et développement
+- régime protéiné
+- remporter une coupe
+- reprises
+- révolutionnaire
+- Rival
+- roues
+- ruban de cintre
+- sacoches
+- sans fil
+- satellite
+- scintigraphie
+- sécurité
+- séduire
+- selle
+- shifter
+- Shimano
+- SLX
+- smart
+- sonde
+- sonde glycémique
+- SRAM
+- startup
+- susciter la jalousie
+- suspension pilotée par ordinateur
+- tactile
+- téflon
+- tige de selle
+- titane
+- top tube
+- tout suspendu
+- tube diagonal
+- tubeless
+- vaincre
+- valeur sûre
+- vitesse ascentionnelle
+- vitesse moyenne
+- Wahoo
+- waterproof
+- XPTDR
 
-Bref mélange moi tout ça pour produire quelque chose d'original et rigolo à même de faire sourire les passionnés de cyclisme.
+Bref mélange moi tout ça ou en allant chercher des termes et concepts similaires pour produire quelque chose d'original et rigolo à même de faire sourire les passionnés de cyclisme.
 
 N'hésite surtout pas :
 
 - à inventer de nouvelles marques, termes techniques et procédés mécaniques ou électroniques loufoques mais n'hésite pas non plus à mentionner une marque, un modèle ou un procédé existant bien connu.
-- à jouer la surenchère : nombre de vitesses, quantité de watts gagnés, poids à la baisse, profilage aérodynamique, micro-optimisations inutiles, etc.
+- à jouer la surenchère : nombre de vitesses, quantité de watts gagnés, poids à la baisse, optimisation de la VO2max, profilage aérodynamique, micro-optimisations inutiles, éléments de communication marketing, etc.
 
 En revanche, évite impérativement :
 
